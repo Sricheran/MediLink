@@ -33,7 +33,7 @@ Medilink is a comprehensive medical assistance and diagnosis system designed to 
 ## Installation and Usage
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/sukrithpvs/MediLink.git
+    git clone https://github.com/Sricheran/MediLink.git
     ```
 2. Install the required dependencies listed in each feature's code.
 3. Run the respective Python scripts for each feature.
